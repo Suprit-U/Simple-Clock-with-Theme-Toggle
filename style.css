@@ -31,7 +31,7 @@ body {
   height: 100vh;
   overflow: hidden;
   margin: 0;
-  background-color: #f4f4f4; /* Changed background color */
+  background-color: #f4f4f4; 
 }
 
 .toggle {
